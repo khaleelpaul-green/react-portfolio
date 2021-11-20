@@ -10,7 +10,7 @@ Visit my deployed portfolio [HERE](https://khaleelpaul-green.github.io/react-por
 
 ## Screenshot
 
-![screenshot](./assets/portfolio-three-ss.PNG)
+![screenshot](./assets/react-portfolio-ss.PNG)
 
 ## Contact
 
