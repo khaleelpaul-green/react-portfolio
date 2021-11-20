@@ -14,4 +14,4 @@ Visit my deployed portfolio [HERE](https://khaleelpaul-green.github.io/react-por
 
 ## Contact
 
-For any inquiries regarding this budget tracker app, feel free to reach me at [my email](mailto:khaleelpaulgreen.code@gmail.com).
+For any inquiries regarding my react portfolio, feel free to reach me at [my email](mailto:khaleelpaulgreen.code@gmail.com).
