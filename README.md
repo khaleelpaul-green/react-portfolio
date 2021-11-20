@@ -1,5 +1,12 @@
 # 20 React: React Portfolio
 
+## Table of Contents
+
+* [Description](#description)
+* [Deployed Portfolio](#deployed-portfolio)
+* [Screenshot](#screenshot)
+* [Contact](#contact)
+
 ## Description
 
 Using React, I created a personal devloper portfolio that acts to showcases my best work, as I continue to develop my coding skills overtime. Being a web developer means being part of a community, and so it is essential to have a place to share my projects while applying for jobs or simply to share my work with other developers and collaborate on projects.
