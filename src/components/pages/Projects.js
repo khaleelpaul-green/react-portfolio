@@ -5,6 +5,8 @@ import blog from '../imgs/tech-blog-ss.jpg';
 import fitness from '../imgs/fitness-tracker.jpg';
 import budget from '../imgs/budget-tracker.JPG';
 import ecommerce from '../imgs/e-commerce-backend.jpg';
+import spooky from '../imgs/spooky-sights-ss.jpg';
+import CAhomepage from '../imgs/homepage.jpg'
 
 export default function Projects () {
     return (
@@ -15,17 +17,17 @@ export default function Projects () {
         <div class="w3-row-padding">
                 <div class="w3-col l4 m6 w3-margin-bottom">
                     <div class="w3-display-container">
-                        <div class="w3-display-topleft w3-black w3-padding"><a href="https://github.com/khaleelpaul-green/new-note-taker">Note Taker</a></div>
-                        <a href="https://kpg-note-taker.herokuapp.com/">
-                            <img src={notetaker} alt="Note Taker" style={{width:"100%"}}/>
+                        <div class="w3-display-topleft w3-black w3-padding"><a href="https://github.com/khaleelpaul-green/cogent-appliance-site">Cogent Gas & Appliance Services Inc.</a></div>
+                        <a href="https://cogentgas.herokuapp.com/">
+                            <img src={CAhomepage} alt="Cogent Gas & Appliance Services Inc. Homepage" style={{width:"100%"}}/>
                         </a>
                     </div>
                 </div>
                 <div class="w3-col l4 m6 w3-margin-bottom">
                     <div class="w3-display-container">
-                        <div class="w3-display-topleft w3-black w3-padding"><a href="https://github.com/khaleelpaul-green/team-generator">Team Generator</a></div>
-                        <a href="https://www.youtube.com/watch?v=uBVId_s-kL0">
-                            <img src={generator} alt="Team Generator" style={{width:"100%"}} />
+                        <div class="w3-display-topleft w3-black w3-padding"><a href="https://github.com/vcapella/Cobweb-coders">Spooky Sights</a></div>
+                        <a href="https://spooky-sights.herokuapp.com/homepage">
+                            <img src={spooky} alt="Spooky Sights" style={{width:"100%"}} />
                         </a>
                     </div>
                 </div>
