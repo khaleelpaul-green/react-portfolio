@@ -6,7 +6,7 @@ import fitness from '../imgs/fitness-tracker.jpg';
 import budget from '../imgs/budget-tracker.JPG';
 import ecommerce from '../imgs/e-commerce-backend.jpg';
 import spooky from '../imgs/spooky-sights-ss.jpg';
-import CAhomepage from '../imgs/homepage.jpg'
+import CAhomepage from '../imgs/homepage (1).jpg'
 
 export default function Projects () {
     return (
