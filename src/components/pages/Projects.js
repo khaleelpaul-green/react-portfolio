@@ -3,7 +3,7 @@ import notetaker from '../imgs/note-taker-ss-1.jpg';
 import generator from '../imgs/team-generator-ss.jpg';
 import blog from '../imgs/tech-blog-ss.jpg';
 import fitness from '../imgs/fitness-tracker.jpg';
-import budget from '../imgs/budget-tracker.JPG';
+import budgetApp from '../imgs/budget-tracker.JPG';
 import ecommerce from '../imgs/e-commerce-backend.jpg';
 import spooky from '../imgs/spooky-sights-ss.jpg';
 import CAhomepage from '../imgs/homepage (1).jpg'
@@ -53,7 +53,7 @@ export default function Projects () {
                     <div class="w3-display-container">
                         <div class="w3-display-topleft w3-black w3-padding"><a href="https://github.com/khaleelpaul-green/budget-tracker">Budget Tracker</a></div>
                         <a href="https://kpg-budget-tracker.herokuapp.com/">
-                            <img src={budget} alt="Budget Tracker" style={{width:"100%"}}/>
+                            <img src={budgetApp} alt="Budget Tracker" style={{width:"100%"}}/>
                         </a>
                     </div>
                 </div>
