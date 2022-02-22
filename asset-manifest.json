@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5905dd5d.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.5c91df1f.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.5c91df1f.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.6c6122f9.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.6c6122f9.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.37b83d9e.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.37b83d9e.js.map",
     "static/js/2.4147cf28.chunk.js": "/react-portfolio/static/js/2.4147cf28.chunk.js",
@@ -17,8 +17,10 @@
     "static/media/e-commerce-backend.0cab5be1.jpg": "/react-portfolio/static/media/e-commerce-backend.0cab5be1.jpg",
     "static/media/fitness-tracker.5c84019d.jpg": "/react-portfolio/static/media/fitness-tracker.5c84019d.jpg",
     "static/media/gmail-logo.9a0224fd.jpg": "/react-portfolio/static/media/gmail-logo.9a0224fd.jpg",
+    "static/media/homepage (1).67534cb7.jpg": "/react-portfolio/static/media/homepage (1).67534cb7.jpg",
     "static/media/note-taker-ss-1.7d5e902d.jpg": "/react-portfolio/static/media/note-taker-ss-1.7d5e902d.jpg",
     "static/media/real-dev-resume.08c5bc8a.pdf": "/react-portfolio/static/media/real-dev-resume.08c5bc8a.pdf",
+    "static/media/spooky-sights-ss.e0e4fd1d.jpg": "/react-portfolio/static/media/spooky-sights-ss.e0e4fd1d.jpg",
     "static/media/team-generator-ss.d9eaa281.jpg": "/react-portfolio/static/media/team-generator-ss.d9eaa281.jpg",
     "static/media/tech-blog-ss.864dd30c.jpg": "/react-portfolio/static/media/tech-blog-ss.864dd30c.jpg"
   },
@@ -26,6 +28,6 @@
     "static/js/runtime-main.37b83d9e.js",
     "static/js/2.4147cf28.chunk.js",
     "static/css/main.5905dd5d.chunk.css",
-    "static/js/main.5c91df1f.chunk.js"
+    "static/js/main.6c6122f9.chunk.js"
   ]
 }
