@@ -1,5 +1,7 @@
 # 20 React: React Portfolio
 
+*this is an older version of my portfolio, refer to repo named 'react-portfolio-updated' for most recent site.
+
 ## Table of Contents
 
 * [Description](#description)
